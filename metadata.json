@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VisionVoice",
+  "description": "An accessible assistant for the visually impaired that describes images using Gemini 3 Pro.\nVisionVoice is an AI-powered accessibility app designed to help users understand the world around them through images. Using the advanced multimodal capabilities of Gemini 3 Pro, the app can analyze any photo, extract meaningful information, and present it in clear, simple language — both in text and voice.\n\nUsers can either take a photo or upload one from their gallery. VisionVoice then identifies objects, text, scenes, and context within the image, and generates an easy-to-understand explanation. This makes the app especially helpful for people with visual impairments, reading difficulties, or anyone who needs quick understanding of visual content.\n\nVisionVoice can describe surroundings, interpret signs, summarize documents, and explain complex visuals in a friendly and accessible way. By combining image understanding, text generation, and reasoning, the app provides a powerful tool for education, travel, daily tasks, and inclusive digital access.\n\nVisionVoice aims to make visual information accessible to everyone, everywhere.\n",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
